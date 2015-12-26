@@ -1,0 +1,66 @@
+<<<<<<< HEAD
+\name{suma.dos.nuºmeros}
+\alias{suma.dos.nuºmeros}
+\title{Duma Dos Numeros}
+
+\description{ funcion que suma el valor de dos numeros dados, separados por comas}
+
+\usage{
+suma.dos.nuºmeros(x, y)
+}
+\arguments{
+\item{x}{
+Primer numero al que se le sumara el segundo
+}
+\item{y}{
+Numero que se suma al primero
+}
+}
+
+\value{
+Devuelve la suma de los dos numeros
+}
+
+\author{
+Maria Tosar
+}
+
+=======
+\name{suma.dos.nÃºmeros}
+\alias{suma.dos.nÃºmeros}
+\title{Duma Dos Numeros}
+
+\description{ funcion que suma el valor de dos numeros dados, separados por comas}
+
+\usage{
+suma.dos.nÃºmeros(x, y)
+}
+\arguments{
+\item{x}{
+Primer numero al que se le sumara el segundo
+}
+\item{y}{
+Numero que se suma al primero
+}
+}
+
+\value{
+Devuelve la suma de los dos numeros
+}
+
+\author{
+Maria Tosar
+}
+
+
+
+\examples{
+suma.dos.numeros(3,1)
+suma.dos.numeros(1,4)
+## The function is currently defined as
+function (x, y) 
+{
+    (x + y)
+  }
+}
+>>>>>>> 9faddedb984cd7a8e4b1e57b7dd4b076d8b786ce
